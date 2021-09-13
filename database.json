@@ -109,38 +109,6 @@
       "emergency": false,
       "dateCompleted": "2021-05-26",
       "id": 1
-    },
-    {
-      "id": 2,
-      "customerId": 7,
-      "employeeId": 2,
-      "description": "Cannot connect to any wifi.",
-      "emergency": true,
-      "dateCompleted": ""
-    },
-    {
-      "description": "test7",
-      "emergency": true,
-      "customerId": 12,
-      "employeeId": 1,
-      "dateCompleted": "",
-      "id": 3
-    },
-    {
-      "description": "A mean man named Gus stepped on my phone and now it won't turn on.",
-      "emergency": true,
-      "customerId": 12,
-      "employeeId": 1,
-      "dateCompleted": "",
-      "id": 4
-    },
-    {
-      "customerId": 13,
-      "employeeId": 2,
-      "description": "Phone battery isn't holding a charge as long as it used to.",
-      "emergency": false,
-      "dateCompleted": "",
-      "id": 5
     }
   ]
 }
